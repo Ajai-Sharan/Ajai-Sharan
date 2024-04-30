@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Ajai Sharan Velmrugan**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Ajai Sharan Velmurugan**
 ---
 I am a Student at [Scaler School of Technology](https://www.scaler.com/school-of-technology/?utm_source=ads&utm_medium=googlesearch&utm_campaign=perf_scaler-ug1_requestcallback_ads_googlesearch_brand-search_india_all&utm_content=e-scaler-ug&utm_term=scaler%20school%20of%20technology&param1=658072413088&param2=c&param3=&gad_source=1&gclid=Cj0KCQiAxOauBhCaARIsAEbUSQSypRJhc37XkJHsnsxDIzaaYcYgHKk42g7Iygt7FCf1G6Obk2WPUfkaArjZEALw_wcB).<br>I am Interested to contribute in Open Source.<br>I love to learn about new technologies out there in market.<br><br>
 
