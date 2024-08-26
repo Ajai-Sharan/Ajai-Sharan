@@ -6,7 +6,7 @@ I am a Student at [Scaler School of Technology](https://www.scaler.com/school-of
 ## 🌐 Socials:
 
 
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />](https://instagram.com/ajaivelm) [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajai-sharan-velmurugan-069504246/) [<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/22356307/v-ajai-sharan)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />](https://www.instagram.com/ajai_vel_m/) [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ajai-sharan-velmurugan-069504246/) [<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/22356307/v-ajai-sharan)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@vajaisharan8153) 
 
 # 💻 Tech Stack:
